@@ -126,6 +126,7 @@ public class InputHelper {
 
         do {
             x = in.nextLine();
+
             if (x.length() > 0) {
                 done = true;
             } else {
